@@ -16,6 +16,6 @@ public class CopyArrayApp{
                 uniqueVals.add(n);
             }
         }
-        System.out.println("unique values: " + uniqueVals.toString()t);
+        System.out.println("unique values: " + uniqueVals.toString());
     }
 }
